@@ -1,6 +1,19 @@
+body{
+    background-color: #F3F1FF;
+}
 .navbar-nav img{
     width: 40px;
 }
 .brand-logo{
     width: 40px;
+}
+.player img{
+    width: 60px;
+
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: white;
 }
